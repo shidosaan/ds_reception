@@ -1,0 +1,19 @@
+{
+  "name": "ds-reception",
+  "version": "0.0.1",
+  "description": "First try",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "0.10.15",
+    "npm": "1.3.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shidosaan/ds_reception"
+  },
+  "author": "Ruslan Kurkebayev",
+  "license": "BSD"
+}
